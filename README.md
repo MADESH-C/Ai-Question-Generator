@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+#Home Page
+<img width="1545" height="894" alt="Screenshot 2026-05-21 120554" src="https://github.com/user-attachments/assets/91723096-fe01-4310-99fb-76172cfb3a2e" />
+
+#Generate Question Page
+<img width="1902" height="941" alt="Screenshot 2026-05-21 120735" src="https://github.com/user-attachments/assets/0db7a644-1f2a-44d4-9d87-1af8fad4d802" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
